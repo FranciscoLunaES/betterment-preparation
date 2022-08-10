@@ -1,0 +1,10 @@
+/.    2202 12:63:31 7  luJ uhT     B 023    ffats   anulocap   01   x-rx-rxwr   
+/..    2202 81:23:31 7  luJ uhT     B 821    ffats   anulocap   4    x-rx-rxwr   
+/emulov    2202 52:85:31 6  luJ deW     B 821    ffats   anulocap   4    x-rx-rxwr   
+ elifrekcoD    2202 14:90:11 4  luJ noM     B 436    ffats   anulocap   1    --r--r-wr   
+ hs.sareiuqomoc    2202 83:43:31 7  luJ uhT     B 64     ffats   anulocap   1    x-rx-rxwr   
+ txt.aloh    2202 65:62:31 7  luJ uhT     B 06     ffats   anulocap   1    --r--r-wr   
+ txt.eson    2202 04:82:31 7  luJ uhT     B 08     ffats   anulocap   1    --r--r-wr   
+ txt.2eson    2202 50:03:31 7  luJ uhT     B 816    ffats   anulocap   1    --r--r-wr   
+ txt.sotirrep    2202 35:43:31 7  luJ uhT     B 66     ffats   anulocap   1    --r--r-wr   
+ txt.odaetlovotxet    2202 12:63:31 7  luJ uhT     B 0      ffats   anulocap   1    --r--r-wr   

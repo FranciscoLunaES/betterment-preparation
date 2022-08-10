@@ -1,0 +1,7 @@
+   rwxr-xr-x   7   pacoluna   staff    224 B     Thu Jul  7 13:30:05 2022    ./
+   rwxr-xr-x   4   pacoluna   staff    128 B     Thu Jul  7 13:28:43 2022    ../
+   rwxr-xr-x   4   pacoluna   staff    128 B     Wed Jul  6 13:58:25 2022    volume/
+   rw-r--r--   1   pacoluna   staff    634 B     Mon Jul  4 11:09:41 2022    Dockerfile 
+   rw-r--r--   1   pacoluna   staff     60 B     Thu Jul  7 13:26:56 2022    hola.txt 
+   rw-r--r--   1   pacoluna   staff     80 B     Thu Jul  7 13:28:40 2022    nose.txt 
+   rw-r--r--   1   pacoluna   staff      0 B     Thu Jul  7 13:30:05 2022    nose2.txt 

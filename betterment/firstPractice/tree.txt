@@ -1,0 +1,15 @@
+.
+├── Dockerfile
+├── comoquieras.sh
+├── hola.txt
+├── lobos.txt
+├── nose.txt
+├── nose2.txt
+├── perritos.txt
+├── textovolteado.txt
+├── tree.txt
+└── volume
+    ├── adios.txt
+    └── hola.txt
+
+1 directory, 11 files
