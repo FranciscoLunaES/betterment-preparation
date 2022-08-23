@@ -21,7 +21,7 @@
   margin-top: 25px;
 }
 
-.jumbotron{
+.jumbotron {
   background-image: asset-url("jumbo");
   background-position: center center;
   background-repeat: no-repeat;
@@ -39,3 +39,49 @@ body {
   background-color: lightgray;
 }
 
+// Pagination styling
+
+.flickr_pagination {
+  text-align: center;
+  padding: 0.3em;
+  cursor: default;
+  a,
+  span,
+  em {
+    padding: 0.2em 0.5em;
+    border-radius: 5px;
+  }
+  .disabled {
+    color: #aaaaaa;
+  }
+  .current {
+    font-style: normal;
+    font-weight: bold;
+    color: #ff0084;
+  }
+  a {
+    border: 1px solid whitesmoke;
+    color: whitesmoke;
+    text-decoration: none;
+    &:hover,
+    &:focus {
+      border-color: gray;
+      background: whitesmoke;
+      color: gray;
+    }
+  }
+  .page_info {
+    color: #aaaaaa;
+    padding-top: 0.8em;
+  }
+  .previous_page,
+  .next_page {
+    border-width: 2px;
+  }
+  .previous_page {
+    margin-right: 1em;
+  }
+  .next_page {
+    margin-left: 1em;
+  }
+}
