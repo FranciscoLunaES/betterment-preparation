@@ -5,34 +5,47 @@
 # NO usar return con procs
 def variable_modification
   x = 10
-  modifier = Proc.new { |y| x = y }
-  modifier.call(2)
-  p x
+  modifier = proc { |y| x = y }
+  p modifier.call(2)
 end
 
-variable_modification()
+variable_modification
 
 #  valor y en lambda
 def self_context
-  x = 10
-  modifier = -> { x = 2 }
+  modifier = -> { return 2 }
   modifier.call
-  p x
 end
 
-self_context()
+self_context
 
 # modulo -> clase (solo dentro del modulo)
 
 module Example
-  class ModuleClass
+  class Homework
+    def activity
+      puts "Hola a todos"
+    end
+  end
+
+  def school
+    Homework.new.activity
   end
 end
 
 # clase -> metodo protegido -> llamarlo en metodo publico (public instance methods)
 
 class Anything
+  def animals
+    extinct_animals
+  end
+
   protected
-  def protected_method'
+
+  def extinct_animals
+    puts 'im protected'
   end
 end
+
+Anything.public_instance_methods[0]
+Anything.new.animals
