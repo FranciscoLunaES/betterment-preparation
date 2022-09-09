@@ -7,3 +7,5 @@
 [Finance tracker repository](https://github.com/FranciscoLunaES/finance-tracker)
 
 [Photo app repository](https://github.com/FranciscoLunaES/photo-app)
+
+[University app repository](https://github.com/FranciscoLunaES/univ_app)
